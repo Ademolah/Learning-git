@@ -1,0 +1,2 @@
+This is an automation script for the human machine interaction of the Tesla model 3
+The user will be able to interact with the dashboard with voice and hand, during FSD
