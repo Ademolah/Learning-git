@@ -1,4 +1,4 @@
 def welcome():
-    pass
+    print('Everything is Okay')
 
 main()
