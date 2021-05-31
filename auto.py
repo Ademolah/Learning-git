@@ -1,0 +1,4 @@
+def welcome():
+    pass
+
+main()
